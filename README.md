@@ -1,2 +1,2 @@
 # Customer-Life-Time-Value-
-This is final project at my university focus on predict CLV for customer segements
+This is final project at my university focusing on predict CLV for customer segements
